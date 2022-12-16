@@ -1,0 +1,2 @@
+CLIENT ID   |   PRODUCT ID   |   PRODUCT QTY   
+c1c2
